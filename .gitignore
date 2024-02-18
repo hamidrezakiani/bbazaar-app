@@ -1,0 +1,36 @@
+/node_modules
+/public/hot
+/public/uploads
+/public/storage
+/storage/*.key
+/vendor
+/public
+/storage
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+.user.ini
+=======
+user.ini
+>>>>>>> 5f9f68d560df3076d1352a8450c3f99763018001
+=======
+user.ini
+>>>>>>> 5f9f68d560df3076d1352a8450c3f99763018001
+=======
+user.ini
+>>>>>>> 5f9f68d560df3076d1352a8450c3f99763018001
+.env
+.env.backup
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.idea/*
+/.idea/*
+/.vscode
+/.idea/workspace.xml
+.idea/workspace.xml
+# IDE / Editor
+.idea

@@ -1,0 +1,71 @@
+v2.1.2
+----------------
+- Data deletion issue fixed
+- Design fix in shipping page
+- Follow/unfollow feature fix
+
+
+v2.1.1
+----------------
+- Integrated guest checkout
+- Header links configurable from the admin panel
+- Moved Country list to the server
+- Updated price limit
+- Solved translation issues
+- Solved RTL design issues
+
+
+v2.0.2
+----------------
+- Fixed update migration issue generated in v2.0.1
+- Updated the translation section in the documentation
+
+
+v2.0.1
+----------------
+- Multi language feature integrated
+- Iyzico payment gateway integrated
+- Added slug option for products, collection, brands, banners
+- Design Improvement and fix
+- Fixed delete vendor, product issue
+- Fixed attribute update issue
+
+v1.0.7
+----------------
+- Solved the issue of the admin profile update
+- Added video support in WYSIWYG Editor
+- Added support for decimal values from the admin panel
+- Solved issue of quantity selection if there is no attribute
+- Added slider loop and auto slide
+- Fixed design issues
+
+v1.0.6
+----------------
+- Integrated URL support for media
+- Media storage configurable from the setting page
+- Fixed the issue of redirecting after login
+
+v1.0.5
+----------------
+- Fixed the issue of product inventory
+
+v1.0.4
+----------------
+- Flutterwave payment gateway integrated
+
+v1.0.3
+----------------
+- Custom CSS and color configurable from admin panel "UI > Site Setting"
+- Removed manual import of database and make it automated while installing
+
+v1.0.2
+----------------
+- Dynamic currency icon position(Left/Right of price)
+- Metadata, site logos, SMTP, and social login credentials configurable from the admin panel
+
+
+v1.0.1
+----------------
+- Store page integrated
+- Order tracking integrated
+- Store follow/unfollow by user

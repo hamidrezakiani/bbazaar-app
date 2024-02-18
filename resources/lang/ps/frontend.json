@@ -1,0 +1,454 @@
+{
+    "accountLayout": {
+        "myProfile": " زما پروفایل ",
+        "myAddressBook": " زما د آدرسونو کتاب ",
+        "vouchers": " واوچر ",
+        "myOrders": " زما فرمایشونه ",
+        "myWishlist": " زما د خوښې لېست ",
+        "comparedList": " پرتله یی لېست "
+    },
+    "trackOrder": {
+        "estimatedDelivery": " اټکلې لیږد ",
+        "estimated": " اټکل شوی ",
+        "enterCode": " د خپل فرمایش ردیابۍ کوډ دننه کړئ ",
+        "trackOrder": " خپل فرمایش تعقیب کړئ ",
+        "orderStatus": " د فرمایش وضعیت ",
+        "haveAnOrder": " فرمایش لرئ؟ غواړئ پوه شئ چې ستاسو فرمایش اوس چیرته دی؟ ",
+        "knowProgress": " خپل د محصول تحویلي پرمختګ په اړه پوه شئ. "
+    },
+    "addressPopup": {
+        "country": " هېواد ",
+        "order": " فرمایش ",
+        "state": " ایالت ",
+        "email": " بریښنالیک ",
+        "name": " نوم ",
+        "address": " پته ",
+        "city": " ښار ",
+        "zipCode": " د پوست پته ",
+        "isRequired": "{type} اړین دی",
+        "phone": " تلیفون ",
+        "cancel": " لغوه کول ",
+        "update": " تازه کول ",
+        "thisAddress": "{type} دا پته",
+        "saving": " خوندي کول ",
+        "save": " خوندي کړئ ",
+        "message": " پیغام ",
+        "addressPlaceholder": " د کوڅي پته یا د پوسته خانې پته ",
+        "address2Placeholder": " اپارتمان، واحد، بلدنګ، پوړ، او داسی نور ",
+        "subject": " موضوع "
+    },
+    "ajaxButton": {
+        "gettingResponse": " د ځواب ترلاسه کول ",
+        "submit": " سپارل "
+    },
+    "cartProductTile": {
+        "bundleOffer": " د بنډل وړاندیز ",
+        "fromPickupPlace": " له خریدارۍ لېست څخه ",
+        "noShipMessage": "دا محصول {state} {country} ته نشي لیږدول کیدی. مهرباني وکړئ لومړی محصول غیر فعال کړئ یا د لېږدېدو ځای پته بدل کړئ",
+        "deleteAlert": " ایا ریښتیا تاسي غواړی خذف یې کړۍ؟ ",
+        "fromLocation": " له ځای څخه "
+    },
+    "categoryListingLayout": {
+        "noItemFound": " هیڅ و نه موندل شول "
+    },
+    "checkoutRight": {
+        "subtotalItems": "څیرمه ټولټال ({itemCount} توکي)",
+        "shipping": " لېږدول ",
+        "total": " ټولټال ",
+        "proceedToCheckout": " د اداینې په لور ",
+        "voucher": " واوچر ",
+        "submitting": " سپارل "
+    },
+    "contact": {
+        "errorOccurred": " لاندی تخنیکی ستونزه پېښه شوه ",
+        "email": " برېښنالیک ",
+        "name": " نوم ",
+        "your": "ستاسې {type}",
+        "invalidEmail": " ناسم برېښنالیک ",
+        "success": " بریا ",
+        "successMessage": " موږ ستاسو پیغام ترلاسه کړ. موږ ژر تر ژره له تاسو سره اړیکه نیسو. ",
+        "goToHome": " کورپانې ته تګ ",
+        "now": " اوس ",
+        "contactUs": " غواړو چې ستاسو څخه واورو ",
+        "feelFree": " په پوره ډاډ سره زمونږ سره په اړیکه کې شئ. مونږ به ډېر ژر تاسې سره په اړیکه کې شو "
+
+    },
+    "detailRight": {
+        "details": " جزئیات ",
+        "shippingFeeDetails": " د لېږد او فیس توضیحات ",
+        "transactionIsSecured": " معامله په خوندیتوب سره ترسره شوه ",
+        "price": " قیمت ",
+        "shippingFee": " د لېږد فیس ",
+        "quantity": "مقدار ",
+        "adding": " اضافه کول ",
+        "addToCart": " په کارټ (کڅوړه) کې اضافه کړئ ",
+        "secureTransaction": " خوندی معامله  ",
+        "secureTransactionMsg": " موږ ستاسو د امنیت او محرمیت ساتلو لپاره هڅه کوو. زموږ د تادیې امنیتي سیسټم د معاملې پرمهال ستاسو معلومات کوډ کوي. موږ ستاسو د کریډیټ کارت توضیحات د درېمګړي پلورونکو سره نه شریکوو. ",
+        "arrives": " راځي ",
+        "addingToWishlist": " د خوښی په نوملړ کې اضافه کول ",
+        "removingFromWishlist": " له خوښی نوملړ څخه لرې کول ",
+        "addToWishlist": " د خوښې نوملړ ته اضافه کول ",
+        "removeFromWishlist": " د خوښې نوملړ څخه لرې کېدل ",
+        "outOfStock": " دا محصول نه لرو. ",
+        "requiredAttributes": " مهرباني وکړئ بشپړ اړین ځانګړتیاوې غوره کړئ. ",
+        "exceedsInventory": " د محصول مقدار له موجودیت څخه ډیر دی. ",
+        "buyNow": " همدا اوس وپیرئ ",
+        "off": "{amount} بند",
+        "noReview": " تراوسه بیاکتنه نه ده شوی. "
+    },
+    "discover": {
+        "dailyDiscover": " ورځنۍ کشف ",
+        "showMore": " نور وښایاست "
+    },
+    "dropdown": {
+        "choose": " غوره کړئ "
+    },
+    "featured": {
+        "featured": "ویژه",
+        "sold": " پلورل شوی ",
+        "showAll": " ټول وښایاست "
+    },
+    "listingLayout": {
+        "sortBy": " په واسطه ترتیب کړئ ",
+        "for": " لپاره ",
+        "close": " تړل ",
+        "paginationResult": " د { from } څخه { to } د { total } پایلو څخه ښودل ",
+        "allProducts": " ټول محصولات ",
+        "price": " قیمت ",
+        "anyPrice": " هر قیمت ",
+        "go": " ځه ",
+        "priceLowToHigh": " د ټیټ څخه تر لوړ پورې قیمت ",
+        "priceHighToLow": " له لوړې څخه تر ټیټ پورې قیمت ",
+        "avgCustomerReview": " د پیرودونکي اوسط بیاکتنه ",
+        "clear": " پاکول ",
+        "up": " پورته ",
+        "max": " اعظمي ",
+        "min": " لږ ",
+        "collections": " ټولګه ",
+        "shippingOptions": " د بار وړلو اختیارونه ",
+        "brands": " براند ",
+        "noProductFound": " هیڅ محصول ونه موندل شو. ",
+        "showingResult": " د پایلې ښودنه ",
+        "customerReviews": " د پیرودونکي بیاکتنې ",
+        "loading": " لوډ کېدل ",
+        "filter": " فلټر "
+    },
+    "orderCancelPopup": {
+        "cancelOrder": " لغوه کول ",
+        "title": " سرلیک ",
+        "titleSmall": " سرلیک سمال ",
+        "SendMessage": " پیغام واستوئ "
+    },
+    "orderTabbing": {
+        "cancelled": " لغوه شو ",
+        "cardPayment": " د کارت له لارې اداینه ",
+        "paid": " اداینه وشوه ",
+        "unPaid": " اداینه نده شوی ",
+        "cod": "د توکو سپارل په نغدو "
+    },
+    "payButton": {
+        "placedSuccess": " ستاسو فرمایش په بریالیتوب سره ترسره شوی دی. "
+    },
+    "productImage": {
+        "rollOver": " د لوی ښودلو لپاره په انځور کیکاږۍ ",
+        "extendedView": " د لوی ښودلو لپاره په انځور کلیک کړۍ "
+    },
+    "productReview": {
+        "customerReviews": " د پیرودونکي بیاکتنې ",
+        "reviews": "{count} بیاکتنې ",
+        "star": "{count} ستوری ",
+        "peopleReviewed": "{count} خلکو بیاکتنه وکړه"
+    },
+    "productDynamic": {
+        "pageOf": "پانه  تر  {current} دا {total}",
+        "extendedView": " د پراخه لید لپاره عکس کلیک وکړئ "
+    },
+    "quantityNav": {
+        "maximumExceeds": " اعظمي مقدار ډیر دی. ",
+        "min": "باید لږترلږه ۱ توکي ولرئ."
+    },
+    "ratePopup": {
+        "addImage": " عکس اضافه کړئ ",
+        "rateNow": " اوس نظر  ورکړئ ",
+        "uploadingError": " د ځینې عکسونو اپلوډ کولو پرمهال غلطي شتون لري. ",
+        "supportedImage": "ملاتړ شوی انځور: jpg, png (ماکس تاسو: {max}kb)"
+    },
+    "searchPopup": {
+        "suggestedSearch": " وړاندیز شوي د لټون کلیدي ټکي ",
+        "products": " محصولات ",
+        "nothingFound": " هیڅ شی د دې لپاره ونه موندل شو  ",
+        "categories": " کټګورۍ "
+    },
+    "socialShare": {
+        "share": " شریکول ",
+        "facebook": " فیسبوک ",
+        "twitter": " ټویټر ",
+        "pinterest": " پنټیرسټ "
+    },
+    "stripePayment": {
+        "bestDeal": " غوره معامله ترلاسه کړئ ",
+        "creditDebit": " کریډیټ یا ډیبیټ کارت ",
+        "creditExpiry": " د کریډیټ پای ",
+        "creditCvc": "CVC",
+        "placing": " ځای پرځای کول ",
+        "pay": "تادیه {amount}"
+    },
+    "suggestedProducts": {
+        "recommendedForYou": " وړاندیز شوی ",
+        "alsoViewed": " د خلکو له لوري ډیر کتل شوي توکی هم وګورئ. "
+    },
+    "toastMessage": {
+        "error": " تېروتنه "
+    },
+    "userAddress": {
+        "noAddress": " هیڅ پته ونه موندل شوه. ",
+        "deleting": " حذف کول ",
+        "delete": " حذف کړئ ",
+        "edit": " سمول "
+    },
+    "vouchers": {
+        "noVoucher": " هیڅ واؤچر ونه موندل شو. ",
+        "minSpend": " لږ مصرف ",
+        "valid": " اعتبار "
+    },
+    "footer": {
+        "siteLogo": " د سایټ لوګو ",
+        "services": " خدمتونه ",
+        "about": " په اړه ",
+        "social": " ټولنیز ",
+        "allRights": " ټول حقونه خوندي دي ",
+        "payment": " تادیه "
+    },
+    "store": {
+        "avgRating": " د دې پلورونکي محصولاتو اوسط درجه بندي ده   ",
+        "noData": " هیڅ پلورنځی ونه موندل شو. ",
+        "memberSince": " له هغه وخته ",
+        "visitStore": " د پلورنځي نه لیدنه ",
+        "follow": " تعقیب ",
+        "following": " تعقیبول  ",
+        "unFollowing": " نه تعقیبول ",
+        "followingStores": " د پلورنځیو تعقیب "
+    },
+    "header": {
+        "searchHere": " دلته لټون وکړئ ",
+        "trackOrder": " د غوښتنو تعقیبول ",
+        "account": " زما حساب ",
+        "login": " ننوتل ",
+        "register": " ثبت کړئ ",
+        "profile": " پروفایل ",
+        "orders": " فرمایشونه ",
+        "vouchers": " واوچرونه ",
+        "logout": " وتل ",
+        "cart": " کارټ (کڅوړه) ",
+        "products": " محصولات موندنه وکړئ ",
+        "categories": " کټګورۍ ",
+        "brands": " براند ",
+        "hotDeals": " کمښتونه  ",
+        "faq": " په مکرر ډول پوښتل شوي پوښتنې ",
+        "help": " مرسته ",
+        "contact": " موږ سره اړیکه ونیسئ ",
+        "wishList": " د غوښتنې لیست ",
+        "comparedList": " پرتله شوي لست "
+    },
+    "empty": {
+        "welcome": "{name} ته ښه راغلاست ",
+        "or": " یا ",
+        "loginFacebook": " د فیسبوک سره ننوتل ",
+        "loginGoogle": " د ګوګل سره ننوتل ",
+        "agreement": "په مخې تللو سره ، تاسو له دې سره موافق یاست  ",
+        "privacyPolicy": " د محرمیت تګلاره "
+    },
+    "error": {
+        "sorry": " بخښنه ",
+        "try": " هڅه وکړئ ",
+        "reload": " بیا هڅه وکړئ ",
+        "or": " یا ",
+        "goHome": " کور پاڼې ته لاړ شه "
+    },
+    "ratingStar": {
+        "outOf": "{rating} له ۵ څخه"
+    },
+    "product": {
+        "home": " کورپاڼه ",
+        "rating": " درجه بندۍ ",
+        "endsIn": " پای ته رسي ",
+        "bundleDeal": " د بنډل معامله ",
+        "brand": " براند ",
+        "readLess": " لږ ولولئ ",
+        "readMore": " نور ولولئ ",
+        "authentic": "۱۰۰٪ مستند",
+        "refundWarranty": " بیرته ستنیدل او تضمین ",
+        "compare": " پرتله کول ",
+        "removeCompare": " پرتله کول لرې کړئ ",
+        "shocking": " برېښوونکی خرڅلاو "
+    },
+    "order": {
+        "orderCancelled": " دا فرمایش لغوه شوی ",
+        "orderRefunded": " دا فرمایش بیرته ورکړل شوی ",
+        "order": " فرمایش ",
+        "orderMethod": " د فرمایش ډول ",
+        "orderDate": " د فرمایش نېټه ",
+        "orderAmount": " د فرمایش مقدار ",
+        "paymentStatus": " د تادیې حالت ",
+        "image": " انځور ",
+        "cancellationMessage": " د لغوه کولو پیغام وګورئ ",
+        "cancelOrder": " دا فرمایش لغوه کړئ ",
+        "subtotal": " څیرمه ټولټال ",
+        "shippingCost": " د لیږدولو لګښت ",
+        "shipTo": " ته وړل ",
+        "deliveryFee": " تحویلي فیس ",
+        "deliveryStatus": " تحویلي حالت "
+    },
+    "addresses": {
+        "addAddress": " نوې پته اضافه کړئ ",
+        "try": " د لټون هڅه وکړئ یا ",
+        "goHome": " کور پاڼې ته لاړ شه "
+    },
+    "orders": {
+        "noOrderYet": " تراوسه فرمایش نشته. ",
+        "manageOrder": " فرمایش اداره کړئ ",
+        "shippingStatus": " بار وړلو حالت ",
+        "loggedWith": " سره ننوتل ",
+        "updateProfile": " د پروفایل تازه کول ",
+        "qty": " مقدار "
+    },
+    "profile": {
+        "password": "پټنوم",
+        "updatePassword": " پټنوم نوی کړئ ",
+        "retypePassword": " د پټنوم بیا لیکنه ",
+        "currentPassword": "اوسنی پټنوم",
+        "confirmPassword": "پټنوم تایید کړئ",
+        "yourCurrentPassword": "ستاسو اوسنی پټنوم",
+        "newPassword": "نوی پټنوم",
+        "invalidLength": "د پټنوم اوږد والی د منلو وړ ندي",
+        "noMatch": "پټنوم سره سر نه خوری",
+        "google": "ګوګل",
+        "facebook": "فیسبوک",
+        "updatingPassword": "د پټنوم تازه کول"
+    },
+    "wishlist": {
+        "noWishlist": "هیڅ د خوښې نوملړ محصول ونه موندل شو."
+    },
+    "compared": {
+        "noData": "هیڅ پرتله شوی محصول ونه موندل شو."
+    },
+    "cart": {
+        "shoppingCart": "د سودا اخستلو ګاډي",
+        "selectItems": "ټول توکي وټاکئ",
+        "deselectItems": "ټول توکي له غوروایی نه وکاږئ",
+        "subtotal": "څیرمه ټولټال ({items} توکي)",
+        "noSelected": "هېڅ توکي ندی غوره شوی",
+        "tax": "مالیه",
+        "productAdded": "محصول په بریالیتوب سره په کارټ کې اضافه شوی"
+    },
+    "checkout": {
+        "selectPayment": "د تادیې میتود غوره کړئ",
+        "apply": "غوښتنه وکړئ",
+        "applying": "پلي کول",
+        "payNow": "همدا اوس پیسې ورکړئ",
+        "voucherCode": "کوډ",
+        "confirmOrderAnd": "فرمایش تایید کړئ او اوس یې تادیه کړئ ({amount})",
+        "confirmOrder": "د فرمایش تصدیق کړئ",
+        "noPayment": "اوس مهال د تادیې هیڅ میتود شتون نلري"
+    },
+    "forgotPassword": {
+        "errorOccurred": "وروسته خطا وشوه",
+        "sentEmail": "موږ تاسې ته برېښنالیک لیږلی چې کوډ پکې شامل وي. مهرباني وکړئ د خپل پټنوم تازه کولو لپاره د کوډ په ساحه کې کوډ پیسټ کړئ.",
+        "code": "کوډ",
+        "signIn": "ننوتل",
+        "youCan": "تاسو کولی شئ",
+        "verified": "تاسو په بریالیتوب سره خپل حساب تایید کړی.",
+        "congratulations": "مبارک شه",
+        "createAccount": "اکونت جوړ کړئ",
+        "noAccount": "اکونت نه لری؟",
+        "registering": "ثبت کول",
+        "codeFrom": "کوډ له ایمیل نه"
+    },
+    "login": {
+        "password": "پټنوم",
+        "loggingIn": "ننوتل",
+        "forgotPassword": "پټنوم مو هیر شوی"
+    },
+    "razorpayCallback": {
+        "wait": "مهرباني وکړئ انتظار وکړئ"
+    },
+    "register": {
+        "haveAccount": "دمخه حساب لرئ؟",
+        "sentEmail": "موږ تاسې ته بریښنالیک لیږلی چې کوډ پکې شامل وي. مهرباني وکړئ د خپل حساب تصدیق کولو لپاره لاندې کوډ پیسټ کړئ."
+    },
+    "shipping": {
+        "instruction": "د تحویلي لارښوونې",
+        "ordered": "فرمایش ورکړل شوي محصولات",
+        "addAddress": "مهرباني وکړئ لومړی پته اضافه کړئ.",
+        "unableShipped": "محصول د لیږدولو توان نلري.",
+        "noProductSelected": "تاسو هیڅ محصول نه لرئ. مهرباني وکړئ لومړی یو محصول وټاکئ.",
+        "proceed": "د اداینې په لور",
+        "shippingOption": "د لیږدولو لاری تنظیم کړئ"
+    },
+    "productHelper": {
+        "refundable": "بیرته ستنیدونکی",
+        "notRefundable": "د مستریدو وړ نه دی",
+        "mindChange": "د فکر بدلول د منلو وړ ندي",
+        "available": "ګرانتی شتون لری",
+        "notAvailable": "ګرانتی شتون نلری"
+    },
+    "util": {
+        "location": "موقعیت",
+        "pickup": "اخیستل",
+        "pending": "پاتې",
+        "confirmed": "تایید شوی",
+        "pickedUp": "اخیستل شوی",
+        "onWay": "په لاره",
+        "delivered": "ورکړل شوی",
+        "creditDebit": "کریډیټ / ډیبټ کارت",
+        "paypal": "Paypal",
+        "stripe": "Stripe",
+        "flutterwave": "Flutterwave",
+        "razorpay": "Razorpay"
+    },
+    "home": {
+        "mail": "بریښنا لیک",
+        "helpline": "زمونږ سره اړیکه",
+        "rapid_shipping": "چټکه انتقالول",
+        "shortPeriod": "د لنډې مودې سره",
+        "checkoutSecurely": "خوندي اداینه",
+        "support": "۲۴/۷ ملاتړ",
+        "pickupCalls": "اماده یاست چې زنګ درته وهل شي",
+        "bundleOffer": "د بنډل وړاندیز",
+        "onProducts": "په ډیری محصولاتو کې",
+        "subscribeNewsletter": "زموږ خبر پاڼه کې ګډون وکړئ",
+        "getLatestEmail": "زموږ وروستي او تازه معلومات په خپل بریښنالیک کې ترلاسه کړئ",
+        "subscribe": "ګډون وکړئ",
+        "subscribeSuccessMsg": "تاسو په بریالیتوب سره زموږ خبر پاڼه کې ګډون کوئ.",
+        "secureTransaction": "خوندي معاله",
+        "off": "{percent}٪ کمښت"
+    },
+    "detail": {
+        "inStock": "په سټاک کې",
+        "outOfStock": "له سټاک څخه بهر"
+    },
+    "sitemap": {
+        "find": "ستاسو لپاره مناسب محصول ومومئ",
+        "stock": "د لا محدود سټاک څخه سلګونه محصولات وپیرئ"
+    },
+    "payment":  {
+        "paypal": "د PayPal سره تادیه وکړئ",
+        "flutterwave": "د Flutterwave سره تادیه وکړئ",
+        "stripe": "د Stripe سره تادیه وکړئ",
+        "razorpay": "د Razorpay سره تادیه وکړئ",
+        "bestDeal": "غوره وړانديز ترلاسه کړئ"
+    },
+    "filter": {
+        "hideAll": "ټول پټ کړئ",
+        "shop": "د واچرونه سره وپیرئ",
+        "rating": "درجه بندي او بیاکتنه",
+        "copied": "کاپي شوی",
+        "copy": "کاپي",
+        "ckout": "اداینه",
+        "address": "د کارونکي پته",
+        "iyzicoPayment": "د Iyzico تادیه",
+        "payIyzico": "د Iyzico سره تادیه وکړئ",
+        "placed": "نېټه ستاسو فرمایش بشپړ شوی {date} پر",
+        "featured": "{title} ویژه"
+    }
+}
